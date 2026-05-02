@@ -1,0 +1,8 @@
+{
+    "best_val_accuracy": 0.9968093093093093,
+    "total_training_time_seconds": 765.6918559074402,
+    "epochs": 1,
+    "batch_size": 32,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001
+}
