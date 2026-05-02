@@ -1,0 +1,5 @@
+{
+    "test_accuracy": 0.9889944576405384,
+    "model_path": "models/best_resnet18_gtsrb.pth",
+    "num_test_samples": 12630
+}
