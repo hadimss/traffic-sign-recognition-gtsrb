@@ -70,3 +70,12 @@ traffic-sign-recognition-gtsrb/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+
+## Current Status
+Project setup in progress.
+
+## Future Work
+- Add real-time webcam prediction.
+- Compare ResNet-18 with MobileNetV3.
+- Deploy the Streamlit app online.
+- Extend the project from classification to traffic sign detection.
